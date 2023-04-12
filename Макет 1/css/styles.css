@@ -1,0 +1,22 @@
+@import url('https://fonts.googleapis.com/css2?family=Playfair+Display&display=swap');
+
+body {
+    font-family: 'Playfair Display';
+    font-weight: 400;
+    
+}
+
+a {
+    text-decoration: none;
+    color: #7D7D7D;
+}
+
+ul {
+    list-style: none;
+}
+
+.nav-list-link {
+    color: #7D7D7D;
+    font-size: 14px;
+    line-height: 19px;
+}
