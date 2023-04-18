@@ -20,3 +20,27 @@ ul {
     font-size: 14px;
     line-height: 19px;
 }
+.text {
+    color: #626262;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 19px;
+}
+.zaholovok {
+    color: #626262;
+    font-weight: 400;
+    font-size: 30px;
+    line-height: 40px;
+}
+
+
+@import url('https://fonts.googleapis.com/css2?family=Playfair+Display&family=Ubuntu:wght@300&display=swap');
+
+
+.abzac {
+    font-family:'Ubuntu' ;
+    color: #B4AD9E;
+    font-weight: 300;
+    font-size: 14px;
+    line-height: 16px;
+}
